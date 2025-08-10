@@ -1,4 +1,5 @@
 Apresentação do Projeto – Site In Nova Alumínio
+
 Este projeto representa uma das minhas entregas mais completas na área de desenvolvimento web: um site institucional moderno e responsivo, pensado para transmitir credibilidade e funcionalidade, enquanto oferece recursos exclusivos para usuários autenticados.
 
 Desenvolvido com HTML5, CSS3, PHP e MySQL, ele combina design limpo, experiência do usuário fluida e recursos técnicos sólidos. Desde a concepção até a implementação, cada detalhe foi planejado para que o produto final fosse elegante, funcional e seguro.
